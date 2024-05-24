@@ -4,7 +4,6 @@ about: Crie um relatório para nos ajudar a melhorar
 title: "[BUG]"
 labels: bug
 assignees: ''
-author: ''
 ---
 
 **Descreva o bug**
